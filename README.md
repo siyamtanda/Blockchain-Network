@@ -1,4 +1,4 @@
-# Blockchain-Network
+
 
 # Blockchain Network For Shipping
 
@@ -7,7 +7,7 @@
 ## Installation
 
 ```
- Clone Repository - git clone https://github.com/siyamtanda/Shipping-chain.git
+ Clone Repository - git clone https://github.com/siyamtanda/Blockchain-Network.git
  cd Shipping
  npm install
 
